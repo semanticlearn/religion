@@ -1,0 +1,46 @@
+<xrcs:page religion="christianity" topic="marriage"
+           xrcs:xmlns="xrcs:xrcs"
+           xmlns="http://www.w3.org/1999/xhtml">
+  <xrcs:title>Christian Marriage</xrcs:title>
+  <xrcs:content>
+    <xrcs:page id="summary" religion="christianity" topic="marriage">
+      <xrcs:title religion="christianity">What is Marriage?</xrcs:title>
+      <xrcs:title>What is Marriage in Christianity?</xrcs:title>
+      <xrcs:content>
+        Marriage is a union between two people before God.
+        It is traditionally between a man and a woman, although many Liberal Christians accept a broader definition of marriage.
+      </xrcs:content>
+      <xrcs:further>
+        <a href="https://www.christianforums.com/threads/what-is-marriage.60086/">What is marriage? | Christian Forums</a>
+      </xrcs:further>
+    </xrcs:page>
+    <xrcs:page id="requirements">
+      <xrcs:title>What are the Requirements of Marriage?</xrcs:title>
+      <xrcs:content>
+        <todo />
+      </xrcs:content>
+    </xrcs:page>
+    <xrcs:page>
+      <xrcs:title>How Long Does Marriage Last?</xrcs:title>
+      <xrcs:content>
+        <p>
+          It's a common misconception that marriage is forever. It's not.<xrcs:footnote name="finite-marriage" />
+          There are several ways a marriage can end:
+          <ul>
+            <li>Divorce</li>
+            <li>Annullment</li>
+            <li>Death</li>
+          </ul>
+        </p>
+      </xrcs:content>
+      <xrcs:footnotes>
+        <xrcs:footnote name="finite-marriage">In Mormonism, marriage <i>is</i> eternal;
+          see the further reading section.</xrcs:footnote>
+      </xrcs:footnotes>
+      <xrcs:further>
+        <a href="https://christiananswers.net/q-cc/cc-eternal-marriage.html">Is marriage eternal? &#8226; ChristianAnswers.Net</a>
+        <a href="https://www.lds.org/topics/marriage">Marriage &#8212; lds.org (Mormon)</a>
+      </xrcs:further>
+    </xrcs:page>
+  </xrcs:content>
+</xrcs:page>
